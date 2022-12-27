@@ -1,0 +1,6 @@
+{
+    "HELLO": "Bună ziua",
+    "PRODUCT": {
+        "NEW": "Produs nou: {name}"
+    }
+}
